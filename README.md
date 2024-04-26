@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/564x/03/9a/60/039a60b6eb71e14336213060a161a8c5.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/eb/cc/2b/ebcc2bbe06889c7b104786ea1a189622.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -10,7 +10,7 @@
 Если вы ищете молодого и амбициозного специалиста для вашего проекта или просто хотите узнать больше о моей работе, давайте свяжемся</div>  
   
 
-- ☕Смотреть фильмы  
+- ☕ Люблю смореть фильмы
   
 
 - 😴 Люблю спать  
@@ -18,13 +18,27 @@
 
 - ❓Вопросы задавать в соц сетях
 
+___
+###  Как можно со мной связаться
+
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+<a href="https://www.linkedin.com/in/aktilek">
+  <img alt="Linked in" width="50px" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
 </a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
+<a href="https://wa.me/+996709414212">
+  <img alt="Whatsapp" width="50px" src="https://cdn-icons-png.flaticon.com/128/2504/2504957.png" />
+</a>
+<a href="https://t.me/sagyndykovAktilek">
+  <img alt="Telegram" width="50px" src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" />
+</a>
+<a href="https://t.me/sagyndykovAktilek">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/> 
 </a>
 <br>
 </p>
+
+___
+### Мой стек техгологий
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=Redux&logoColor=white"/>
+
